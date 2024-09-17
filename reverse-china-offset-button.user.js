@@ -3,9 +3,8 @@
 // @name           IITC plugin: Reverse China Offset Portal Marker
 // @category       Portal Info
 // @version        0.1.0
-// @namespace      *
-// @updateURL      *
-// @downloadURL    *
+// @updateURL      https://github.com/Xelminoe/IITC-plugin-Reverse-China-Offset-Portal-Marker/raw/main/reverse-china-offset-button.user.js
+// @downloadURL    https://github.com/Xelminoe/IITC-plugin-Reverse-China-Offset-Portal-Marker/raw/main/reverse-china-offset-button.user.js
 // @description    Adds a button to portal info to create a marker at the reverse China offset location of the portal.
 // @include        https://intel.ingress.com/*
 // @match          https://intel.ingress.com/*
